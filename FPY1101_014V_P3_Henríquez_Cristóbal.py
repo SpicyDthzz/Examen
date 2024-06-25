@@ -7,9 +7,12 @@ print ("Completa los datos en el Menu")
 print ("            De")
 print("          Abajo! :D")
 
+
 #Nota: se que se puede hacer de otra forma pero yo lo queria hacerlo así :D
 
 vehiculos = []
+
+
 
 def agregar_vehiculo():
     tipo = input("Ingrese el tipo de vehículo (Automóvil, Camión, Camioneta, Moto): ")
